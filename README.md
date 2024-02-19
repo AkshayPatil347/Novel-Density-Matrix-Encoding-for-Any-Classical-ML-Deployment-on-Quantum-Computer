@@ -1,0 +1,1 @@
+Density Matrix encoding is novel way of encoding classical data in the form of matrix , to emulate the result of any classical ML algorithm using Qiskit Library with same or better accuracy than classical ML algorithm ran on classical hardware
